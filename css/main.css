@@ -1,0 +1,48 @@
+body {
+margin: 0;
+text-align: center;
+}
+
+.black {
+  color: black;
+}
+
+.white {
+  color: white;
+}
+
+.background {
+  background-color: black;
+}
+
+
+@media only screen and (min-width: 25em){
+
+
+}
+
+@media only screen and (min-width: 38em){
+
+  .background {
+    background-color: white;
+  }
+
+}
+
+@media only screen and (min-width: 60em){
+
+  .background {
+    background-color: white;
+  }
+
+
+}
+
+@media only screen and (min-width: 90em){
+
+  .background {
+    background-color: white;
+  }
+
+
+}
