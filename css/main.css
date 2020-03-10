@@ -14,8 +14,8 @@ body {
   background-color: black;
 }
 
-.play {
-  font-family: "Playfair Display", serif;
+.aleg {
+  font-family: "Alegreya SC", serif;
 }
 
 .diplo {
@@ -24,6 +24,10 @@ body {
 
 .amatic {
   font-family: "Amatic SC", sans-serif;
+}
+
+.shadow {
+  font-family: "Shadows Into Light", sans-serif;
 }
 
 /* @media only screen and (min-width: 25em) {
