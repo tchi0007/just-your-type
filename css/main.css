@@ -34,11 +34,6 @@ body {
   font-family: "Playfair Display", serif;
 }
 
-/* @media only screen and (min-width: 25em) {
-
-
-} */
-
 @media only screen and (min-width: 38em) {
 
   .background {
@@ -53,7 +48,6 @@ body {
     background-color: white;
   }
 
-
 }
 
 @media only screen and (min-width: 90em) {
@@ -61,6 +55,5 @@ body {
   .background {
     background-color: white;
   }
-
 
 }
